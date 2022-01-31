@@ -11,7 +11,7 @@ public class Main {
         System.out.println(Arrays.toString(array1));
     }
 
-    // 75. Sort Colors
+    // Leetcode 75. Sort Colors
     // Time Complexity: ON
     // Space Complexity: O1
     public static void sortColors(int[] nums) {
