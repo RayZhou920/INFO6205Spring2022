@@ -5,8 +5,9 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        // Assignment2 code for review:
+        // Assignment2 code by Rui Zhou
+        // Thank you for reviewing!
+
         // 35. Search Insert Position
         int[] array1 = new int[]{1,3,5,6};
         int target = 5;
